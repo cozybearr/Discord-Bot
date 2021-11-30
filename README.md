@@ -2,11 +2,11 @@
 
 ![Status badge](https://img.shields.io/badge/Status-Archived-important)
 
-**Update**(30 Nov. 2021): Try using Selenium to do Youtube scrapping for video link
+**Update** (30 Nov. 2021): Try using Selenium to do Youtube scrapping for video link
 
 ## Dataset Information
 
-A trivial bot to play music and other trivial stuff 😇
+🎼🎶 A trivial bot to play music and other trivial stuff 😇
 
 ## Requirements
 
@@ -25,7 +25,7 @@ There are some general library requirements for the project and some which are s
 
 1. Run `v/album` to display list of song tracks
 2. Run `v/play` + `[name]` to play songs in the album
-3. If cannot find song in **album**, use `v/download` + `'song name'` to update new song to the album
+3. If cannot find song in **album**, use `v/download` + `[name]` to update new song to the album
 4. `v/pause`, `v/stop`, `v/skip`, `v/leave`, `v/join` are used as usual
 
 More features are being developed, takes time, duhh 😅🌠
