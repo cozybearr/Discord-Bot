@@ -6,7 +6,7 @@
 
 ## Dataset Information
 
-🎼🎶 A trivial bot to play music and other trivial stuff 😇
+🎼� A trivial bot to play music and other trivial stuff �
 
 ## Requirements
 
